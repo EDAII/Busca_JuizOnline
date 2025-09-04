@@ -1,36 +1,46 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Busca_JuizOnline
+Repositório com algoritmos de busca
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
-## Alunos  
-| Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
-## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+## Alunos
+
+| Matrícula  | Aluno                             |
+| ---------- | --------------------------------- |
+| 22/1034973 | Bruno Cunha Vasconcelos de Araújo |
+| --/------- | Millena Queiroz                   |
+
+---
+
+## Sobre
+
+Este repositório foi criado para a apresentação dos trabalhos da disciplina **Estrutura de Dados 2**, 2025.2, **UnB - FCTE**, sob orientação do professor **Maurício Serrano**.
+
+---
+
+## Problemas Resolvidos
+
+Tabela com os links para as devidas questões.
+
+| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                                                                  | Solução comentada                                                                                   |
+|------------------------------------------------------------------------------------------|-------------------|----------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [LeetCode 41 - First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Difícil (9)     | Hashes                          | [41_first_missing_positive.py](PD/leetcode-41/41_first_missing_positive.py)                     | [41_first_missing_positive.md](PD/leetcode-41/41_first_missing_positive.md)                         |
+| [LeetCode 99 - Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Médio (6) | Árvores Binárias de Busca (BST) | [99_recover_bst.py](PD/leetcode-99/99_recover_bst.py)                                           | [99_recover_bst.md](PD/leetcode-99/99_recover_bst.md)                                               |
+|                                                                                          |                   |                                  |                                                                                                  |                                                                                                      |
+|                                                                                          |                   |                                  |                                                                                                  |                                                                                                      |
+
+---
+
+## Instalação
+
+**Linguagem:** Python 3.10+
+
+### Pré-requisitos
+
+- Python 3 instalado
+- pip (Python package manager)
+
+### Comandos
+
+Clone o repositório:
+
+```bash
+git clone git@github.com:EDAII/Busca_JuizOnline.git
