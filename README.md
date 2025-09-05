@@ -5,7 +5,7 @@ Repositório com algoritmos de busca
 
 | Matrícula  | Aluno                             |
 | ---------- | --------------------------------- |
-| 22/1034973 | Bruno Cunha Vasconcelos de Araújo |
+| 221034973 | Bruno Cunha Vasconcelos de Araújo |
 | --/------- | Millena Queiroz                   |
 
 ---
@@ -19,15 +19,12 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina *
 ## Problemas Resolvidos
 
 Tabela com os links para as devidas questões.
+| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                              | Solução comentada                           |
+|------------------------------------------------------------------------------------------|-------------------|----------------------------------|---------------------------------------------|---------------------------------------------|
+| [LeetCode 41 - First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Difícil     | Hashes                          | [41.py](questões/leetcode_41/41.py)         | [41.md](questões/leetcode_41/41.md)         |
+| [LeetCode 99 - Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Média | Árvores Binárias de Busca (BST) | [99.py](questões/leetcode_99/99.py)         | [99.md](questões/leetcode_99/99.md)         |
+|                                                                                          |                   |                                  |                                             |        
 
-| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                                                                  | Solução comentada                                                                                   |
-|------------------------------------------------------------------------------------------|-------------------|----------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [LeetCode 41 - First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Difícil (9)     | Hashes                          | [41_first_missing_positive.py](PD/leetcode-41/41_first_missing_positive.py)                     | [41_first_missing_positive.md](PD/leetcode-41/41_first_missing_positive.md)                         |
-| [LeetCode 99 - Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Médio (6) | Árvores Binárias de Busca (BST) | [99_recover_bst.py](PD/leetcode-99/99_recover_bst.py)                                           | [99_recover_bst.md](PD/leetcode-99/99_recover_bst.md)                                               |
-|                                                                                          |                   |                                  |                                                                                                  |                                                                                                      |
-|                                                                                          |                   |                                  |                                                                                                  |                                                                                                      |
-
----
 
 ## Instalação
 
