@@ -18,7 +18,7 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina *
 
 ## Problemas Resolvidos
 
-Tabela com os links para as devidas questões.
+Tabela com as questões.
 | Problema                                                                                 | Dificuldade       | Método                          | Solução Código                              | Solução comentada                           |
 |------------------------------------------------------------------------------------------|-------------------|----------------------------------|---------------------------------------------|---------------------------------------------|
 | [LeetCode 41 - First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Difícil     | Hashes                          | [41.py](questões/leetcode_41/41.py)         | [41.md](questões/leetcode_41/41.md)         |
