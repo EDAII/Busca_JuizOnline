@@ -6,7 +6,7 @@ Repositório com algoritmos de busca
 | Matrícula  | Aluno                             |
 | ---------- | --------------------------------- |
 | 221034973 | Bruno Cunha Vasconcelos de Araújo |
-| --/------- | Millena Queiroz                   |
+| 202046283 | Millena de Abreu Queiroz            |
 
 ---
 
