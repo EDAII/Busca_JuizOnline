@@ -1,5 +1,5 @@
 # Busca_JuizOnline
-Repositório com algoritmos de busca
+Repositório com a entrega 1, Algoritmos de Busca.
 
 ## Alunos
 
