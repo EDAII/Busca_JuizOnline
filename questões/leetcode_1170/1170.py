@@ -1,22 +1,28 @@
-import bisect
-
 class Solution:
     def numSmallerByFrequency(self, queries, words):
-        def calculate_frequency_of_smallest_character(string): 
-            return string.count(min(string))
+        def f(s):
+            return s.count(min(s))
         
-        word_frequencies = sorted(calculate_frequency_of_smallest_character(word) for word in words)
+        word_frequencies = sorted(f(word) for word in words)
         result = []
         
         for query in queries:
-            query_frequency = calculate_frequency_of_smallest_character(query)
-            insertion_point = bisect.bisect_right(word_frequencies, query_frequency)
-            result.append(len(word_frequencies) - insertion_point)
+            qf = f(query)
+            
+            left, right = 0, len(word_frequencies)
+            while left < right:
+                mid = (left + right) // 2
+                if word_frequencies[mid] <= qf:
+                    left = mid + 1
+                else:
+                    right = mid
+            
+            result.append(len(word_frequencies) - left)
         
         return result
 
-# queries = ["cbd"]
-# words = ["zaaaz"]
+# queries =["bbb","cc"]
+# words = ["a","aa","aaa","aaaa"]
 # sol = Solution()
 # result = sol.numSmallerByFrequency(queries, words)
-# print(result)  # Saída esperada: [1]
+# print(result)  # retorno esperado: [1,2]
