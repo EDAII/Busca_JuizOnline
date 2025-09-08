@@ -6,7 +6,6 @@ class Solution:
             return []
         
         word_len = len(words[0])
-        total_len = word_len * len(words)
         word_count = Counter(words)
         n = len(s)
         res = []
@@ -33,3 +32,9 @@ class Solution:
                     count = 0
                     left = right
         return res
+
+# s = "barfoothefoobarman"
+# words = ["foo","bar"]
+# sol = Solution()
+# result = sol.findSubstring(s, words)
+# print(result)  # retorno esperado: [0,9]
