@@ -19,13 +19,13 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina *
 ## Problemas Resolvidos
 
 Tabela com as questões.
-| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                              | Solução comentada                           |
-|------------------------------------------------------------------------------------------|-------------------|----------------------------------|---------------------------------------------|---------------------------------------------|
-| [LeetCode 41 - First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Difícil     | Hashes                          | [41.py](questões/leetcode_41/41.py)         | [41.md](questões/leetcode_41/41.md)         |
-| [LeetCode 99 - Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Média | Árvores Binárias de Busca (BST) | [99.py](questões/leetcode_99/99.py)         | [99.md](questões/leetcode_99/99.md)         |
-| [LeetCode 1170 - Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/?envType=problem-list-v2&envId=binary-search) | Média | Busca Binária | [1170.py](questões/leetcode_1170/1170.py) | [1170.md](questões/leetcode_1170/1170.md) |
-| [LeetCode 30 - Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/?envType=problem-list-v2&envId=hash-table) | Difícil | Hashes | [30.py](questões/leetcode_30/30.py) | [30.md](questões/leetcode_30/30.md) |
-|  
+| Problema                                                                                 | Dificuldade       | Método                          | Solução Código                                  | Solução comentada                               |
+|------------------------------------------------------------------------------------------|-------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
+| [LeetCode 173 - Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Média | Árvores Binárias de Busca (BST) | [173.py](questões/leetcode_173/173.py)          | [173.md](questões/leetcode_173/173.md)          |
+| [LeetCode 2156 - Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) | Difícil | Hashes | [2156.py](questões/leetcode_2156/2156.py)       | [2156.md](questões/leetcode_2156/2156.md)       |
+| [LeetCode 1170 - Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Média | Busca Binária | [1170.py](questões/leetcode_1170/1170.py)       | [1170.md](questões/leetcode_1170/1170.md)       |
+| [LeetCode 30 - Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Difícil | Hashes | [30.py](questões/leetcode_30/30.py)             | [30.md](questões/leetcode_30/30.md)             |
+ |
 
 ## Instalação
 
