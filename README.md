@@ -25,7 +25,10 @@ Tabela com as questões.
 | [LeetCode 2156 - Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) | Difícil | Hashes | [2156.py](questões/leetcode_2156/2156.py)       | [2156.md](questões/leetcode_2156/2156.md)       |
 | [LeetCode 1170 - Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | Média | Busca Binária | [1170.py](questões/leetcode_1170/1170.py)       | [1170.md](questões/leetcode_1170/1170.md)       |
 | [LeetCode 30 - Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Difícil | Hashes | [30.py](questões/leetcode_30/30.py)             | [30.md](questões/leetcode_30/30.md)             |
- |
+
+## Gravação
+
+[Link para o vídeo](https://youtu.be/I2kMChaYt5E)
 
 ## Instalação
 
